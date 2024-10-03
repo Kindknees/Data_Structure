@@ -1,0 +1,50 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(439,15): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(512,9): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(513,9): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(548,14): warning C4244: '=': 將 'double' 轉換為 '__int64'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(576,10): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(582,61): warning C4244: '引數': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(582,33): warning C4244: '引數': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(591,22): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(594,21): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(608,9): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(609,9): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(610,13): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(611,13): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\Form1.h(624,16): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+  Form1.cpp
+  正在產生程式碼...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  CppCLR_WinFormsProject1.vcxproj -> C:\Users\gerry\Desktop\programming\data_structure\bonus1\111701031_黃浚瑀\x64\Release\CppCLR_WinFormsProject1.exe

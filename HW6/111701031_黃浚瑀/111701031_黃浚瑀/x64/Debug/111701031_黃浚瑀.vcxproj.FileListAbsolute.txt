@@ -1,0 +1,3 @@
+C:\Users\gerry\Desktop\programming\data_structure\HW6\111701031_黃浚瑀\111701031_黃浚瑀\x64\Debug\111701031_黃浚瑀.vcxproj.AssemblyReference.cache
+C:\Users\gerry\Desktop\programming\data_structure\HW6\111701031_黃浚瑀\111701031_黃浚瑀\x64\Debug\_111701031_黃浚瑀.Form1.resources
+C:\Users\gerry\Desktop\programming\data_structure\HW6\111701031_黃浚瑀\111701031_黃浚瑀\x64\Debug\111701031_黃浚瑀.vcxproj.GenerateResource.cache

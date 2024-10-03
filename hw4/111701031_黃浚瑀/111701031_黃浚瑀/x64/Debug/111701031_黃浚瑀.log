@@ -1,0 +1,5 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\gerry\Desktop\programming\c++\data_structure\hw4\111701031_黃浚瑀\Form1.h(453,1): warning C4715: 'CppCLRWinFormsProject::Form1::InStack': 不是所有控制路徑都傳回值
+C:\Users\gerry\Desktop\programming\c++\data_structure\hw4\111701031_黃浚瑀\Form1.h(467,1): warning C4715: 'CppCLRWinFormsProject::Form1::OutStack': 不是所有控制路徑都傳回值
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  111701031_黃浚瑀.vcxproj -> C:\Users\gerry\Desktop\programming\c++\data_structure\hw4\111701031_黃浚瑀\x64\Debug\111701031_黃浚瑀.exe
